@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/categories/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/categories/" hreflang="en"/>
+    
+      <loc>https://rreitmann.github.io/de/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/publication_types/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/publication_types/" hreflang="en"/>
+    
+      <loc>https://rreitmann.github.io/de/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/" hreflang="en"/>
+    
+      <loc>https://rreitmann.github.io/de/</loc>
+      <lastmod>2018-07-22T21:56:18+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/" hreflang="en"/>
+    
+      <loc>https://rreitmann.github.io/de/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

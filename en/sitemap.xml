@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>https://rreitmann.github.io/post/</loc>
+      <lastmod>2018-07-22T21:56:18+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rreitmann.github.io/publication/</loc>
+      <lastmod>2018-07-22T21:56:18+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rreitmann.github.io/talk/</loc>
+      <lastmod>2018-07-22T21:56:18+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/categories/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/publication_types/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/</loc>
+      <lastmod>2018-07-22T21:56:18+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
