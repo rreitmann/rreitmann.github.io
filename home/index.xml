@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on René&#39;s Biography</title>
+    <title>Homes on René Reitmann</title>
     <link>https://rreitmann.github.io/home/</link>
-    <description>Recent content in Homes on René&#39;s Biography</description>
+    <description>Recent content in Homes on René Reitmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,8 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/home/about/</guid>
-      <description>Biography Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+      <description>Biography I am currently employed as DevOp and Scrum Master at the Research Data Center (FDZ) of the German Center for Higher Education and Science Research (DZHW). Since 2015, I (as part of an interdisciplinary team) have been developing a search and documentation portal for the data sets available at the FDZ. This portal is developed openly on GitHub.
+Before my time at the DZHW, I first worked as a consulting software engineer at Capgemini after studying mathematical economics at the Clausthal University of Technology.</description>
     </item>
     
     <item>
