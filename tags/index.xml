@@ -7,9 +7,136 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Jul 2018 16:59:57 +0200</lastBuildDate>
     
 	<atom:link href="https://rreitmann.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agile</title>
+      <link>https://rreitmann.github.io/tags/agile/</link>
+      <pubDate>Fri, 27 Jul 2018 16:59:57 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angularjs</title>
+      <link>https://rreitmann.github.io/tags/angularjs/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/angularjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudfoundry</title>
+      <link>https://rreitmann.github.io/tags/cloudfoundry/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/cloudfoundry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://rreitmann.github.io/tags/devops/</link>
+      <pubDate>Fri, 27 Jul 2018 16:59:57 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch</title>
+      <link>https://rreitmann.github.io/tags/elasticsearch/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grunt</title>
+      <link>https://rreitmann.github.io/tags/grunt/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/grunt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://rreitmann.github.io/tags/java/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://rreitmann.github.io/tags/javascript/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material design</title>
+      <link>https://rreitmann.github.io/tags/material-design/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/material-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>https://rreitmann.github.io/tags/maven/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mongodb</title>
+      <link>https://rreitmann.github.io/tags/mongodb/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabbitmq</title>
+      <link>https://rreitmann.github.io/tags/rabbitmq/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/rabbitmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum</title>
+      <link>https://rreitmann.github.io/tags/scrum/</link>
+      <pubDate>Fri, 27 Jul 2018 16:59:57 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/scrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring-boot</title>
+      <link>https://rreitmann.github.io/tags/spring-boot/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/tags/spring-boot/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

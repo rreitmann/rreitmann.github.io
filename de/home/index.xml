@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on René&#39;s Biographie</title>
+    <title>Homes on René Reitmann</title>
     <link>https://rreitmann.github.io/de/home/</link>
-    <description>Recent content in Homes on René&#39;s Biographie</description>
+    <description>Recent content in Homes on René Reitmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -20,6 +20,24 @@
       <guid>https://rreitmann.github.io/de/home/about/</guid>
       <description>Biographie Ich bin aktuell als DevOp und Scrum Master im Forschungsdatenzentrum (FDZ) des Deutschen Zentrum für Hochschul- und Wissenschaftsforschung (DZHW) angestellt. Hier entwickeln wir seit 2015 mit einem interdisziplinären Team ein Such- und Dokumentationsportal für die im FDZ verfügbaren Datensätze. Dieses Portal wird offen auf GitHub entwickelt.
 Vor meiner Zeit beim DZHW war ich, im Anschluss an mein Studium der Wirtschaftsmathematik an der TU Clausthal, zuerst als beratender Software Engineer bei Capgemini tätig.</description>
+    </item>
+    
+    <item>
+      <title>Projekte</title>
+      <link>https://rreitmann.github.io/de/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://rreitmann.github.io/de/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/tags/</guid>
+      <description></description>
     </item>
     
     <item>

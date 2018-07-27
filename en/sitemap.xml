@@ -5,6 +5,30 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/project/agile-devops/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/project/agile-devops/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/project/agile-devops/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/project/metadatamagement/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/project/metadatamagement/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/project/metadatamagement/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rreitmann.github.io/post/</loc>
       <lastmod>2018-07-22T21:56:18+02:00</lastmod>
     </url>
@@ -32,10 +56,163 @@
     
     <url>
     
+      <loc>https://rreitmann.github.io/tags/agile/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/angularjs/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/angularjs/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/angularjs/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://rreitmann.github.io/categories/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/categories/" hreflang="de"/>
     
       <loc>https://rreitmann.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/cloudfoundry/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/cloudfoundry/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/cloudfoundry/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/devops/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/devops/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/devops/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/elasticsearch/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/elasticsearch/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/elasticsearch/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/grunt/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/grunt/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/grunt/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/java/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/java/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/java/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/javascript/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/javascript/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/javascript/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/material-design/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/material-design/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/material-design/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/maven/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/maven/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/maven/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/mongodb/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/mongodb/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/mongodb/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/project/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/project/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -56,11 +233,50 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/rabbitmq/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/rabbitmq/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/rabbitmq/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://rreitmann.github.io/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/" hreflang="de"/>
     
       <loc>https://rreitmann.github.io/</loc>
-      <lastmod>2018-07-22T21:56:18+02:00</lastmod>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/scrum/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/scrum/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/scrum/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/tags/spring-boot/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/spring-boot/" hreflang="de"/>
+    
+      <loc>https://rreitmann.github.io/tags/spring-boot/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -73,6 +289,7 @@
       <xhtml:link rel="alternate" href="https://rreitmann.github.io/de/tags/" hreflang="de"/>
     
       <loc>https://rreitmann.github.io/tags/</loc>
+      <lastmod>2018-07-27T17:37:49+02:00</lastmod>
       <priority>0</priority>
     </url>
     
