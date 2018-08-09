@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soa on René Reitmann</title>
+    <link>https://rreitmann.github.io/tags/soa/</link>
+    <description>Recent content in Soa on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 09 Aug 2018 16:57:37 +0200</lastBuildDate>
+    
+	<atom:link href="https://rreitmann.github.io/tags/soa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Composing Web Services with BPEL (November 2004 - March 2005)</title>
+      <link>https://rreitmann.github.io/project/virtusa/</link>
+      <pubDate>Thu, 09 Aug 2018 16:57:37 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/virtusa/</guid>
+      <description>In this internship at Virtusa in Sri Lanka I dealt with the topic SOA and web services. I was part of an R&amp;amp;D team and developed a proof-of-concept for composing web services with BPEL. Here I mapped a small internal team process. I passed on the findings of this PoC in tech talks to the company&amp;rsquo;s employees.</description>
+    </item>
+    
+  </channel>
+</rss>

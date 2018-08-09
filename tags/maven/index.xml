@@ -13,12 +13,21 @@
     
     
     <item>
-      <title>Metadatamagement (2015 - today)</title>
+      <title>Metadatamagement (April 2015 - today)</title>
       <link>https://rreitmann.github.io/project/metadatamagement/</link>
       <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/project/metadatamagement/</guid>
-      <description></description>
+      <description>As a member of the DZHW I was part of a 5 person team as Scrum Master, Full Stack Developer and DevOp that developed a search portal for social science research data. We are currently operating and developing this portal further. The entire development process takes place openly at GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Global Order and Transport Management (January 2011 - November 2011)</title>
+      <link>https://rreitmann.github.io/project/global-order-and-transport-management/</link>
+      <pubDate>Thu, 09 Aug 2018 13:12:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/global-order-and-transport-management/</guid>
+      <description>As an employee of Zühlke Engineering, I was one of 10 architects involved in the development of the central system for the worldwide processing of transport orders for a logistics service provider. About 100 people worked on the entire development project.</description>
     </item>
     
   </channel>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rcp on René Reitmann</title>
+    <link>https://rreitmann.github.io/de/tags/rcp/</link>
+    <description>Recent content in Rcp on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 09 Aug 2018 13:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://rreitmann.github.io/de/tags/rcp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Globales Auftrags- und Transportmanagement (Januar 2011 - November 2011)</title>
+      <link>https://rreitmann.github.io/de/project/global-order-and-transport-management/</link>
+      <pubDate>Thu, 09 Aug 2018 13:12:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/global-order-and-transport-management/</guid>
+      <description>Als Mitarbeiter von Zühlke Engineering war ich als einer von 10 Architekten an der Neuentwicklung des zentralen Systems für die weltweite Abwicklung von Transportaufträgen bei einem Logistikdienstleister beteiligt. An dem gesamten Entwicklungsprojekt arbeiteten ungefähr 100 Personen.</description>
+    </item>
+    
+  </channel>
+</rss>

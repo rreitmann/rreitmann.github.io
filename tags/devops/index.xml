@@ -18,7 +18,16 @@
       <pubDate>Fri, 27 Jul 2018 16:59:57 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/project/agile-devops/</guid>
-      <description></description>
+      <description>We are currently considering using the paradigms, procedures and tools that we have successfully used in the development of the &amp;ldquo;Metadatamanagement (MDM)&amp;rdquo; throughout the department.</description>
+    </item>
+    
+    <item>
+      <title>Metadatamagement (April 2015 - today)</title>
+      <link>https://rreitmann.github.io/project/metadatamagement/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/metadatamagement/</guid>
+      <description>As a member of the DZHW I was part of a 5 person team as Scrum Master, Full Stack Developer and DevOp that developed a search portal for social science research data. We are currently operating and developing this portal further. The entire development process takes place openly at GitHub.</description>
     </item>
     
   </channel>

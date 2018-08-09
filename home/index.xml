@@ -32,11 +32,11 @@ Before my time at the DZHW, I first worked as a consulting software engineer at 
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://rreitmann.github.io/home/publications/</link>
+      <title>Projects</title>
+      <link>https://rreitmann.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rreitmann.github.io/home/publications/</guid>
+      <guid>https://rreitmann.github.io/home/projects/</guid>
       <description></description>
     </item>
     
@@ -50,6 +50,15 @@ Before my time at the DZHW, I first worked as a consulting software engineer at 
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>https://rreitmann.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Posts</title>
       <link>https://rreitmann.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -59,22 +68,13 @@ Before my time at the DZHW, I first worked as a consulting software engineer at 
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://rreitmann.github.io/home/projects/</link>
+      <title>Spare Time</title>
+      <link>https://rreitmann.github.io/home/spare-time/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rreitmann.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>https://rreitmann.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://rreitmann.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <guid>https://rreitmann.github.io/home/spare-time/</guid>
+      <description>If I&amp;rsquo;m not doing one of the roles I mentioned earlier, here&amp;rsquo;s what I&amp;rsquo;m doing:
+ Play Table Tennis at TSV Rethen Being Administrator of &amp;ldquo;WEG Fontainestraße 6&amp;rdquo; Play Pan-Pong Get informed about alternative school concepts like this  </description>
     </item>
     
     <item>
