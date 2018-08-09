@@ -14,12 +14,22 @@
     
     <item>
       <title></title>
-      <link>https://rreitmann.github.io/de/home/about/</link>
+      <link>https://rreitmann.github.io/de/home/biography/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rreitmann.github.io/de/home/about/</guid>
+      <guid>https://rreitmann.github.io/de/home/biography/</guid>
       <description>Biographie Ich bin aktuell als DevOp und Scrum Master im Forschungsdatenzentrum (FDZ) des Deutschen Zentrums für Hochschul- und Wissenschaftsforschung (DZHW) angestellt. Hier entwickeln wir seit 2015 mit einem interdisziplinären Team ein Such- und Dokumentationsportal für die im FDZ verfügbaren Datensätze. Dieses Portal wird offen auf GitHub entwickelt.
 Vor meiner Zeit beim DZHW war ich, im Anschluss an mein Studium der Wirtschaftsmathematik an der TU Clausthal, zuerst als beratender Software Engineer bei Capgemini tätig.</description>
+    </item>
+    
+    <item>
+      <title>Arbeitgeber</title>
+      <link>https://rreitmann.github.io/de/home/employers/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/employers/</guid>
+      <description>Während meines Studiums und in Jahren danach bis einschließlich heute war ich bei den folgenden Unternehmen angestellt:
+ DZHW (Juli 2015 - heute) Anwendungsentwickler und Architekt Zühlke Engineering (Juni 2010 - Juni 2015) Senior Software Engineer KKH (März 2010 - Mai 2010) IT-Koordinator Capgemini Deutschland (Januar 2006 - Februar 2010) IT Consultant Virtusa (November 2004 - März 2005) Praktikant innovative Systems (April 2004 - Oktober 2004) Diplomand/Werksstudent  </description>
     </item>
     
     <item>
@@ -41,6 +51,15 @@ Vor meiner Zeit beim DZHW war ich, im Anschluss an mein Studium der Wirtschaftsm
     </item>
     
     <item>
+      <title>Technologien</title>
+      <link>https://rreitmann.github.io/de/home/technologies/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Freizeit</title>
       <link>https://rreitmann.github.io/de/home/spare-time/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -48,15 +67,6 @@ Vor meiner Zeit beim DZHW war ich, im Anschluss an mein Studium der Wirtschaftsm
       <guid>https://rreitmann.github.io/de/home/spare-time/</guid>
       <description>Wenn ich gerade nicht eine meiner bisher erwähnten Rollen ausübe, tue ich folgendes:
  Tischtennis spielen beim TSV Rethen Verwalter der WEG Fontainestraße 6 sein Pan-Pong spielen Mich informieren über alternative Schulkonzepte wie dieses  </description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://rreitmann.github.io/de/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://rreitmann.github.io/de/home/tags/</guid>
-      <description></description>
     </item>
     
     <item>
