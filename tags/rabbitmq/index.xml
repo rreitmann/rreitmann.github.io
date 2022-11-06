@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rabbitmq on René Reitmann</title>
+    <link>https://rreitmann.github.io/tags/rabbitmq/</link>
+    <description>Recent content in Rabbitmq on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Sun, 06 Nov 2022 17:20:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://rreitmann.github.io/tags/rabbitmq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magicline (February 2022 - June 2022)</title>
+      <link>https://rreitmann.github.io/project/magicline/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/magicline/</guid>
+      <description>As a backend developer in the team &amp;ldquo;Digital Distribution&amp;rdquo; of the Magicline I was part of a 6-member international and cross-functional team which was responsible for making the Magicline available to end customers both on a test basis and in the further process for a fee. The goal was to automate the process as much as possible and to simplify the familiarization with the Magicline so that the end customers can start using the Magicline on their own.</description>
+    </item>
+    
+    <item>
+      <title>Metadatamagement (April 2015 - December 2021)</title>
+      <link>https://rreitmann.github.io/project/metadatamagement/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/metadatamagement/</guid>
+      <description>As a member of the DZHW I was part of a 5 person team as Scrum Master, Full Stack Developer and DevOp that developed a search portal for social science research data. Currently, this portal is being further developed and operated. The entire development process takes place openly at GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

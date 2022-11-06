@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>René Reitmann on René Reitmann</title>
+    <link>https://rreitmann.github.io/de/</link>
+    <description>Recent content in René Reitmann on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Sun, 06 Nov 2022 17:20:22 +0200</lastBuildDate>
+    <atom:link href="/de/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Magicline (Februar 2022 - Juni 2022)</title>
+      <link>https://rreitmann.github.io/de/project/magicline/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/magicline/</guid>
+      <description>&lt;p&gt;Als Backend Entwickler im Team &amp;ldquo;Digital Distribution&amp;rdquo; der &lt;a href=&#34;https://www.magicline.com/de/&#34; target=&#34;_blank&#34;&gt;Magicline&lt;/a&gt; war ich Teil eines 6-köpfigen internationalen und crossfunktionalen Teams welches dafür verantwortlich war, die &lt;a href=&#34;https://www.magicline.com/de/&#34; target=&#34;_blank&#34;&gt;Magicline&lt;/a&gt; Endkunden sowohl testweise als auch im weiteren Prozess kostenpflichtig zur Verfügung zu stellen. Ziel war es dabei, den Prozess weitestgehends zu automatisieren und die Einarbeitung in die &lt;a href=&#34;https://www.magicline.com/de/&#34; target=&#34;_blank&#34;&gt;Magicline&lt;/a&gt; zu vereinfachen, sodass die Endkunden selbständig mit der &lt;a href=&#34;https://www.magicline.com/de/&#34; target=&#34;_blank&#34;&gt;Magicline&lt;/a&gt; starten können.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metadatamagement (April 2015 - Dezember 2021)</title>
+      <link>https://rreitmann.github.io/de/project/metadatamagement/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/metadatamagement/</guid>
+      <description>&lt;p&gt;Als Mitarbeiter des &lt;a href=&#34;https://www.dzhw.eu&#34; target=&#34;_blank&#34;&gt;DZHW&lt;/a&gt; war ich als &lt;a href=&#34;https://www.scrumguides.org/scrum-guide.html#team-sm&#34; target=&#34;_blank&#34;&gt;Scrum Master&lt;/a&gt;, Full Stack Developer und DevOp Teil eines 5 Personen Teams, welches ein &lt;a href=&#34;https://metadata.fdz.dzhw.eu&#34; target=&#34;_blank&#34;&gt;Suchportal&lt;/a&gt; für sozialwissenschaftliche Forschungsdaten entwickelt hat. Aktuell wird dieses Portal weiterentwickelt und betrieben. Der gesamte Entwicklungsprozess findet offen bei &lt;a href=&#34;https://github.com/dzhw/metadatamanagement&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; statt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Globales Auftrags- und Transportmanagement (Januar 2011 - November 2011)</title>
+      <link>https://rreitmann.github.io/de/project/global-order-and-transport-management/</link>
+      <pubDate>Thu, 09 Aug 2018 13:12:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/global-order-and-transport-management/</guid>
+      <description>&lt;p&gt;Als Mitarbeiter von &lt;a href=&#34;https://www.zuehlke.com/de/de/&#34; target=&#34;_blank&#34;&gt;Zühlke Engineering&lt;/a&gt; war ich als einer von 10 Architekten an der Neuentwicklung des zentralen Systems für die weltweite Abwicklung von Transportaufträgen bei einem Logistikdienstleister beteiligt. An dem gesamten Entwicklungsprojekt arbeiteten ungefähr 100 Personen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Routing in digitalen Straßenkarten als SaaS (Juni 2010 - Dezember 2010)</title>
+      <link>https://rreitmann.github.io/de/project/routing-as-a-service/</link>
+      <pubDate>Thu, 09 Aug 2018 15:35:18 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/routing-as-a-service/</guid>
+      <description>&lt;p&gt;Als Mitarbeiter von &lt;a href=&#34;https://www.zuehlke.com/de/de/&#34; target=&#34;_blank&#34;&gt;Zühlke Engineering&lt;/a&gt; war ich als Software Engineer an der Entwicklung eines Dienstes zur Berechnung von optimalen Routen in digitalen Straßenkarten beteiligt. Die Automatisierung von Abnahmetests mit &lt;a href=&#34;https://www.soapui.org/&#34; target=&#34;_blank&#34;&gt;SoapUI&lt;/a&gt; gehörte auch zu meinen Aufgaben.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Auftragsmanagement bei einem Postdienstleister (Januar 2006 - Februar 2010)</title>
+      <link>https://rreitmann.github.io/de/project/easymail/</link>
+      <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/easymail/</guid>
+      <description>&lt;p&gt;Als Mitarbeiter von &lt;a href=&#34;https://de.wikipedia.org/wiki/Capgemini&#34; target=&#34;_blank&#34;&gt;Capgemini&lt;/a&gt; war ich anfangs als Software Entwickler und später als Architekt an der Weiterentwicklung des Auftragsmanagementsystems eines deutschen Postdienstleisters beteiligt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Komponieren von Webservices mit BPEL (November 2004 - März 2005)</title>
+      <link>https://rreitmann.github.io/de/project/virtusa/</link>
+      <pubDate>Thu, 09 Aug 2018 16:57:37 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/virtusa/</guid>
+      <description>&lt;p&gt;In diesem Praktikum bei &lt;a href=&#34;https://www.virtusa.com/about-virtusa/&#34; target=&#34;_blank&#34;&gt;Virtusa&lt;/a&gt; auf Sri Lanka befasste ich mich mit dem Thema &lt;a href=&#34;https://de.wikipedia.org/wiki/Serviceorientierte_Architektur&#34; target=&#34;_blank&#34;&gt;SOA&lt;/a&gt; und Webservices. Ich war Teil eines F&amp;amp;E-Teams und entwickelte einen Proof-of-Concept für die Komponierung von Web Services mit BPEL. Hierbei bildete ich einen kleinen teaminternen Prozess ab. Die Erkenntnisse aus diesem PoC gab ich in Tech-Talks an die Mitarbeiter des Unternehmens weiter.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pareto-optimale Wege in digitalen Straßenkarten</title>
+      <link>https://rreitmann.github.io/de/publication/pareto-optimal-paths-in-digital-street-maps/</link>
+      <pubDate>Sun, 05 Jun 2005 12:16:46 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/publication/pareto-optimal-paths-in-digital-street-maps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

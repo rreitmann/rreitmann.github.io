@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junit on René Reitmann</title>
+    <link>https://rreitmann.github.io/de/tags/junit/</link>
+    <description>Recent content in Junit on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Sun, 06 Nov 2022 17:20:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://rreitmann.github.io/de/tags/junit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magicline (Februar 2022 - Juni 2022)</title>
+      <link>https://rreitmann.github.io/de/project/magicline/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/magicline/</guid>
+      <description>Als Backend Entwickler im Team &amp;ldquo;Digital Distribution&amp;rdquo; der Magicline war ich Teil eines 6-köpfigen internationalen und crossfunktionalen Teams welches dafür verantwortlich war, die Magicline Endkunden sowohl testweise als auch im weiteren Prozess kostenpflichtig zur Verfügung zu stellen. Ziel war es dabei, den Prozess weitestgehends zu automatisieren und die Einarbeitung in die Magicline zu vereinfachen, sodass die Endkunden selbständig mit der Magicline starten können.</description>
+    </item>
+    
+    <item>
+      <title>Metadatamagement (April 2015 - Dezember 2021)</title>
+      <link>https://rreitmann.github.io/de/project/metadatamagement/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/metadatamagement/</guid>
+      <description>Als Mitarbeiter des DZHW war ich als Scrum Master, Full Stack Developer und DevOp Teil eines 5 Personen Teams, welches ein Suchportal für sozialwissenschaftliche Forschungsdaten entwickelt hat. Aktuell wird dieses Portal weiterentwickelt und betrieben. Der gesamte Entwicklungsprozess findet offen bei GitHub statt.</description>
+    </item>
+    
+    <item>
+      <title>Globales Auftrags- und Transportmanagement (Januar 2011 - November 2011)</title>
+      <link>https://rreitmann.github.io/de/project/global-order-and-transport-management/</link>
+      <pubDate>Thu, 09 Aug 2018 13:12:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/global-order-and-transport-management/</guid>
+      <description>Als Mitarbeiter von Zühlke Engineering war ich als einer von 10 Architekten an der Neuentwicklung des zentralen Systems für die weltweite Abwicklung von Transportaufträgen bei einem Logistikdienstleister beteiligt. An dem gesamten Entwicklungsprojekt arbeiteten ungefähr 100 Personen.</description>
+    </item>
+    
+  </channel>
+</rss>

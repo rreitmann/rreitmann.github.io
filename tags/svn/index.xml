@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svn on René Reitmann</title>
+    <link>https://rreitmann.github.io/tags/svn/</link>
+    <description>Recent content in Svn on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Thu, 09 Aug 2018 13:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://rreitmann.github.io/tags/svn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Global Order and Transport Management (January 2011 - November 2011)</title>
+      <link>https://rreitmann.github.io/project/global-order-and-transport-management/</link>
+      <pubDate>Thu, 09 Aug 2018 13:12:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/global-order-and-transport-management/</guid>
+      <description>As an employee of Zühlke Engineering, I was one of 10 architects involved in the development of the central system for the worldwide processing of transport orders for a logistics service provider. About 100 people worked on the entire development project.</description>
+    </item>
+    
+    <item>
+      <title>Routing in Digital Road Maps as SaaS (June 2010 - December 2010)</title>
+      <link>https://rreitmann.github.io/project/routing-as-a-service/</link>
+      <pubDate>Thu, 09 Aug 2018 15:35:18 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/routing-as-a-service/</guid>
+      <description>As an employee of Zühlke Engineering I was involved as a software engineer in the development of a service for calculating optimal routes in digital road maps. The automation of acceptance tests with SoapUI was also one of my tasks.</description>
+    </item>
+    
+    <item>
+      <title>Order Management at a Postal Service Provider (January 2006 - February 2010)</title>
+      <link>https://rreitmann.github.io/project/easymail/</link>
+      <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/easymail/</guid>
+      <description>As an employee of Capgemini I was initially involved as software developer and later as architect in the further development of the order management system of a German postal service provider.</description>
+    </item>
+    
+  </channel>
+</rss>

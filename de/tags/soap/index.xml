@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soap on René Reitmann</title>
+    <link>https://rreitmann.github.io/de/tags/soap/</link>
+    <description>Recent content in Soap on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Thu, 09 Aug 2018 16:57:37 +0200</lastBuildDate>
+    
+	<atom:link href="https://rreitmann.github.io/de/tags/soap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Komponieren von Webservices mit BPEL (November 2004 - März 2005)</title>
+      <link>https://rreitmann.github.io/de/project/virtusa/</link>
+      <pubDate>Thu, 09 Aug 2018 16:57:37 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/virtusa/</guid>
+      <description>In diesem Praktikum bei Virtusa auf Sri Lanka befasste ich mich mit dem Thema SOA und Webservices. Ich war Teil eines F&amp;amp;E-Teams und entwickelte einen Proof-of-Concept für die Komponierung von Web Services mit BPEL. Hierbei bildete ich einen kleinen teaminternen Prozess ab. Die Erkenntnisse aus diesem PoC gab ich in Tech-Talks an die Mitarbeiter des Unternehmens weiter.</description>
+    </item>
+    
+  </channel>
+</rss>

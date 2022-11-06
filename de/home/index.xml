@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on René Reitmann</title>
+    <link>https://rreitmann.github.io/de/home/</link>
+    <description>Recent content in Homes on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://rreitmann.github.io/de/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rreitmann.github.io/de/home/biography/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/biography/</guid>
+      <description>Biographie Ich bin aktuell auf der Suche nach einer neuen Herausforderung als Software Engineer. In der Vergangenheit war ich in unterschiedlichen Projekten als Backend Developer oder Full Stack Developer und DevOp oder Scrum Master tätig. Beim DZHW habe ich beispielsweise in einem interdisziplinären Team ein Such- und Dokumentationsportal für die im FDZ des DZHW verfügbaren Datensätze entwickelt. Dieses Portal wird weiterhin offen auf GitHub entwickelt.
+Vor meiner Zeit beim DZHW war ich, im Anschluss an mein Studium der Wirtschaftsmathematik an der TU Clausthal, zuerst als beratender Software Engineer bei Capgemini tätig.</description>
+    </item>
+    
+    <item>
+      <title>Arbeitgeber</title>
+      <link>https://rreitmann.github.io/de/home/employers/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/employers/</guid>
+      <description>Während meines Studiums und in Jahren danach bis einschließlich heute war ich bei den folgenden Unternehmen angestellt:
+ Magicline (Februar 2022 - Juni 2022) Senior Software Engineer DZHW (Juli 2015 - Dezember 2021) Senior Software Engineer Zühlke Engineering (Juni 2010 - Juni 2015) Senior Software Engineer KKH (März 2010 - Mai 2010) IT-Koordinator Capgemini Deutschland (Januar 2006 - Februar 2010) IT Consultant Virtusa (November 2004 - März 2005) Praktikant innovative Systems (April 2004 - Oktober 2004) Diplomand/Werksstudent  </description>
+    </item>
+    
+    <item>
+      <title>Projekte</title>
+      <link>https://rreitmann.github.io/de/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ausbildung</title>
+      <link>https://rreitmann.github.io/de/home/education/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/education/</guid>
+      <description> Certified Scrum Master bei Scrum Alliance (April 2015) IREB Certified Professional for Requirements Engineering, Foundation Level (August 2011) ISTQB Certified Tester, Foundation Level (Oktober 2010) Training „Konfliktmanagement“ bei Stöger &amp;amp; Partner (Februar 2009) School „SOA“ bei Capgemini (November 2008) School „Systemintegration“ bei Capgemini (März 2008) Training „Moderation“ bei Stöger &amp;amp; Partner (Oktober 2007) Training „Präsentation“ bei Stöger &amp;amp; Partner (Dezember 2006) Studium der Wirtschaftsmathematik an der TU Clausthal und QUB Belfast (1999 - 2005), Diplomnote: 1,3 Gymnasium der Albert-Einstein-Schule KGS Laatzen (1991 - 1998), Abiturnote: 1,8  </description>
+    </item>
+    
+    <item>
+      <title>Publikationen</title>
+      <link>https://rreitmann.github.io/de/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technologie</title>
+      <link>https://rreitmann.github.io/de/home/technologies/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freizeit</title>
+      <link>https://rreitmann.github.io/de/home/spare-time/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/spare-time/</guid>
+      <description>Wenn ich gerade nicht eine meiner bisher erwähnten Rollen ausübe, tue ich folgendes:
+ Tischtennis spielen beim TSV Rethen Verwalter der WEG Fontainestraße 6 sein Pan-Pong spielen  </description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://rreitmann.github.io/de/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
