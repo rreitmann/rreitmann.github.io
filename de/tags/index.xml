@@ -22,11 +22,56 @@
     </item>
     
     <item>
+      <title>Angularjs material</title>
+      <link>https://rreitmann.github.io/de/tags/angularjs-material/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/angularjs-material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>https://rreitmann.github.io/de/tags/aws/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws cloudwatch</title>
+      <link>https://rreitmann.github.io/de/tags/aws-cloudwatch/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/aws-cloudwatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Aws fargate</title>
       <link>https://rreitmann.github.io/de/tags/aws-fargate/</link>
       <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/aws-fargate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws ses</title>
+      <link>https://rreitmann.github.io/de/tags/aws-ses/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/aws-ses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws sns</title>
+      <link>https://rreitmann.github.io/de/tags/aws-sns/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/aws-sns/</guid>
       <description></description>
     </item>
     
@@ -58,6 +103,24 @@
     </item>
     
     <item>
+      <title>Datadog</title>
+      <link>https://rreitmann.github.io/de/tags/datadog/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/datadog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependabot</title>
+      <link>https://rreitmann.github.io/de/tags/dependabot/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/dependabot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Devops</title>
       <link>https://rreitmann.github.io/de/tags/devops/</link>
       <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
@@ -69,9 +132,27 @@
     <item>
       <title>Docker</title>
       <link>https://rreitmann.github.io/de/tags/docker/</link>
-      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dreamweaver</title>
+      <link>https://rreitmann.github.io/de/tags/dreamweaver/</link>
+      <pubDate>Thu, 09 Aug 2018 16:57:37 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/dreamweaver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eclipse</title>
+      <link>https://rreitmann.github.io/de/tags/eclipse/</link>
+      <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/eclipse/</guid>
       <description></description>
     </item>
     
@@ -81,6 +162,15 @@
       <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freemarker</title>
+      <link>https://rreitmann.github.io/de/tags/freemarker/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/freemarker/</guid>
       <description></description>
     </item>
     
@@ -96,9 +186,18 @@
     <item>
       <title>Github actions</title>
       <link>https://rreitmann.github.io/de/tags/github-actions/</link>
-      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github issues</title>
+      <link>https://rreitmann.github.io/de/tags/github-issues/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/github-issues/</guid>
       <description></description>
     </item>
     
@@ -139,6 +238,15 @@
     </item>
     
     <item>
+      <title>Hp-ux</title>
+      <link>https://rreitmann.github.io/de/tags/hp-ux/</link>
+      <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/hp-ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>J2ee</title>
       <link>https://rreitmann.github.io/de/tags/j2ee/</link>
       <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
@@ -175,6 +283,15 @@
     </item>
     
     <item>
+      <title>Jdeveloper</title>
+      <link>https://rreitmann.github.io/de/tags/jdeveloper/</link>
+      <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/jdeveloper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jenkins</title>
       <link>https://rreitmann.github.io/de/tags/jenkins/</link>
       <pubDate>Thu, 09 Aug 2018 13:12:00 +0200</pubDate>
@@ -184,11 +301,29 @@
     </item>
     
     <item>
+      <title>Jira</title>
+      <link>https://rreitmann.github.io/de/tags/jira/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/jira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jpa</title>
       <link>https://rreitmann.github.io/de/tags/jpa/</link>
       <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/jpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jsp</title>
+      <link>https://rreitmann.github.io/de/tags/jsp/</link>
+      <pubDate>Thu, 09 Aug 2018 16:57:37 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/jsp/</guid>
       <description></description>
     </item>
     
@@ -211,15 +346,6 @@
     </item>
     
     <item>
-      <title>Material design</title>
-      <link>https://rreitmann.github.io/de/tags/material-design/</link>
-      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
-      
-      <guid>https://rreitmann.github.io/de/tags/material-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Maven</title>
       <link>https://rreitmann.github.io/de/tags/maven/</link>
       <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
@@ -238,6 +364,24 @@
     </item>
     
     <item>
+      <title>Mysql</title>
+      <link>https://rreitmann.github.io/de/tags/mysql/</link>
+      <pubDate>Thu, 09 Aug 2018 16:57:37 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Npm</title>
+      <link>https://rreitmann.github.io/de/tags/npm/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/npm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oc4j</title>
       <link>https://rreitmann.github.io/de/tags/oc4j/</link>
       <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
@@ -247,20 +391,20 @@
     </item>
     
     <item>
+      <title>Oracle db</title>
+      <link>https://rreitmann.github.io/de/tags/oracle-db/</link>
+      <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/oracle-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oracle workflow</title>
       <link>https://rreitmann.github.io/de/tags/oracle-workflow/</link>
       <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/oracle-workflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oracledb</title>
-      <link>https://rreitmann.github.io/de/tags/oracledb/</link>
-      <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
-      
-      <guid>https://rreitmann.github.io/de/tags/oracledb/</guid>
       <description></description>
     </item>
     
@@ -279,6 +423,24 @@
       <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/postgres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://rreitmann.github.io/de/tags/python/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://rreitmann.github.io/de/tags/r/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/r/</guid>
       <description></description>
     </item>
     
@@ -303,7 +465,7 @@
     <item>
       <title>Rest</title>
       <link>https://rreitmann.github.io/de/tags/rest/</link>
-      <pubDate>Thu, 09 Aug 2018 15:35:18 +0200</pubDate>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/rest/</guid>
       <description></description>
@@ -346,6 +508,24 @@
     </item>
     
     <item>
+      <title>Slack</title>
+      <link>https://rreitmann.github.io/de/tags/slack/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/slack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snyk</title>
+      <link>https://rreitmann.github.io/de/tags/snyk/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/snyk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Soa</title>
       <link>https://rreitmann.github.io/de/tags/soa/</link>
       <pubDate>Thu, 09 Aug 2018 16:57:37 +0200</pubDate>
@@ -375,9 +555,18 @@
     <item>
       <title>Spring</title>
       <link>https://rreitmann.github.io/de/tags/spring/</link>
-      <pubDate>Thu, 09 Aug 2018 13:12:00 +0200</pubDate>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring data</title>
+      <link>https://rreitmann.github.io/de/tags/spring-data/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/spring-data/</guid>
       <description></description>
     </item>
     
@@ -387,6 +576,15 @@
       <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/spring-mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring security</title>
+      <link>https://rreitmann.github.io/de/tags/spring-security/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/spring-security/</guid>
       <description></description>
     </item>
     
@@ -445,6 +643,24 @@
     </item>
     
     <item>
+      <title>Thymeleaf</title>
+      <link>https://rreitmann.github.io/de/tags/thymeleaf/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/thymeleaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travis ci</title>
+      <link>https://rreitmann.github.io/de/tags/travis-ci/</link>
+      <pubDate>Fri, 27 Jul 2018 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/travis-ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tycho</title>
       <link>https://rreitmann.github.io/de/tags/tycho/</link>
       <pubDate>Thu, 09 Aug 2018 13:12:00 +0200</pubDate>
@@ -459,6 +675,24 @@
       <pubDate>Thu, 09 Aug 2018 16:36:44 +0200</pubDate>
       
       <guid>https://rreitmann.github.io/de/tags/webstart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xpath</title>
+      <link>https://rreitmann.github.io/de/tags/xpath/</link>
+      <pubDate>Thu, 09 Aug 2018 15:35:18 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/xpath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xquery</title>
+      <link>https://rreitmann.github.io/de/tags/xquery/</link>
+      <pubDate>Thu, 09 Aug 2018 15:35:18 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/tags/xquery/</guid>
       <description></description>
     </item>
     

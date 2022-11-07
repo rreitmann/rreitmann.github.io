@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jira on René Reitmann</title>
+    <link>https://rreitmann.github.io/tags/jira/</link>
+    <description>Recent content in Jira on René Reitmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Sun, 06 Nov 2022 17:20:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://rreitmann.github.io/tags/jira/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magicline (February 2022 - June 2022)</title>
+      <link>https://rreitmann.github.io/project/magicline/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/magicline/</guid>
+      <description>As a backend developer in the team &amp;ldquo;Digital Distribution&amp;rdquo; of the Magicline I was part of a 6-member international and cross-functional team which was responsible for making the Magicline available to end customers both on a test basis and in the further process for a fee. The goal was to automate the process as much as possible and to simplify the familiarization with the Magicline so that the end customers can start using the Magicline on their own.</description>
+    </item>
+    
+    <item>
+      <title>Routing in Digital Road Maps as SaaS (June 2010 - December 2010)</title>
+      <link>https://rreitmann.github.io/project/routing-as-a-service/</link>
+      <pubDate>Thu, 09 Aug 2018 15:35:18 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/project/routing-as-a-service/</guid>
+      <description>As an employee of Zühlke Engineering I was involved as a software engineer in the development of a service for calculating optimal routes in digital road maps. The automation of acceptance tests with SoapUI was also one of my tasks.</description>
+    </item>
+    
+  </channel>
+</rss>
