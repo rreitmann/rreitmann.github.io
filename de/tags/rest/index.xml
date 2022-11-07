@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 17:20:22 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2022 17:20:22 +0200</lastBuildDate>
     
 	<atom:link href="https://rreitmann.github.io/de/tags/rest/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Magicline (Februar 2022 - Juni 2022)</title>
+      <link>https://rreitmann.github.io/de/project/magicline/</link>
+      <pubDate>Sun, 06 Nov 2022 17:20:22 +0200</pubDate>
+      
+      <guid>https://rreitmann.github.io/de/project/magicline/</guid>
+      <description>Als Backend Entwickler im Team &amp;ldquo;Digital Distribution&amp;rdquo; der Magicline war ich Teil eines 6-köpfigen internationalen und crossfunktionalen Teams welches dafür verantwortlich war, die Magicline Endkunden sowohl testweise als auch im weiteren Prozess kostenpflichtig zur Verfügung zu stellen. Ziel war es dabei, den Prozess weitestgehends zu automatisieren und die Einarbeitung in die Magicline zu vereinfachen, sodass die Endkunden selbständig mit der Magicline starten können.</description>
+    </item>
     
     <item>
       <title>Metadatamagement (April 2015 - Dezember 2021)</title>
